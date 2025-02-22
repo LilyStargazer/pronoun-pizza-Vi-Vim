@@ -56,5 +56,6 @@
   "me/ow",
   "mgg/aow",
   "Who/What/I don't know",
+  "snoo/pingas",
   "he/him" //put new pronouns ABOVE this! it helps avoid merge conflicts & also he/him at the bottom is funny
 ]
